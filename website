@@ -3,13 +3,11 @@
 </head>
 <body>
 <h1>Fanning Flames</h1>
+<p id="first">
+Why
 <br>
-<p>
-<img src:"Screen+Shot+2018-01-01+at+9.26.21+AM.png">
-</p>
-<br>
-<p id="why">
-Blah blah blah.
+<p id=second">
+I love it.
 </p>
 </body>
 </html>
