@@ -4,14 +4,22 @@
 </head>
 <body>
 <h1>Fanning Flames</h1>
-<p id="first">
-Why
+<p id="why">
+Why?
 <br>
-<p id=second">
+<p id="text1">
 I love it.
 <br>
-<p id=third">
-THIS IS ANNOYING.
+<p id="how">
+How?
+<br>
+<p id="text2">
+<p id="what">
+What?
+<br>
+<p id="text3">
+Grace
 </p>
+<h2>Eat It</h2>
 </body>
 </html>
