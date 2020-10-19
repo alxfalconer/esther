@@ -3,9 +3,6 @@
 </head>
 <body>
 <h1>Fanning Flames</h1>
-h1 {
-        color:red;
-        }
 <p id="first">
 Why
 <br>
