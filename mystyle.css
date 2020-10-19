@@ -1,8 +1,31 @@
 body {
-  background-color: lightblue;
+  background-color: white;
 }
 
 h1 {
-  color: navy;
+  color: lightblue;
+  margin-center: 20px;
+  font-weight: bold;
+  font-size: 60pt;
+}
+h2 {
+  color: red;
+  margin-center: 20px;
+  font-weight: bold;
+  font-size: 40pt;
+}
+id="why" {
+  font-weight: bold;
   margin-left: 20px;
+  font-size: 25pt;
+}
+id="how" {
+  font-weight: bold;
+  margin-left: 20px;
+  font-size: 25pt;
+}
+id="what" {
+  font-weight: bold;
+  margin-left: 20px;
+  font-size: 25pt;
 }
