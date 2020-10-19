@@ -3,20 +3,13 @@
 </head>
 <body>
 <h1>Fanning Flames</h1>
-h1 {
-  color: blue;
-  }
-  p {
-  font-weight: bold;
-  }
-  p {
-  font-size: 40pt;
-  }
 <p id="first">
 Why
 <br>
 <p id=second">
 I love it.
+<p id=third">
+THIS IS ANNOYING.
 </p>
 </body>
 </html>
