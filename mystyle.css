@@ -4,16 +4,16 @@ body {
 
 h1 {
   color: lightblue;
-  margin-center: 60px;
+  text-align: center;
   font-weight: bold;
   font-size: 60pt;
 }
 
 h2 {
   color: red;
-  margin-center: 60px;
+  text-align: center;
   font-weight: bold;
-  font-size: 40pt;
+  font-size: 45pt;
 }
 
 #why {
