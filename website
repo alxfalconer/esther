@@ -1,6 +1,9 @@
 <html>
 <head>
 <link rel="stylesheet" href="mystyle.css">
+ <style>
+    a { text-decoration: none; }
+  </style>
 </head>
 <body>
 <h1>Fanning Flames</h1>
