@@ -8,23 +8,27 @@ h1 {
   font-weight: bold;
   font-size: 60pt;
 }
+
 h2 {
   color: red;
   margin-center: 20px;
   font-weight: bold;
   font-size: 40pt;
 }
-id="why" {
+
+<id="why"> {
   font-weight: bold;
   margin-left: 20px;
   font-size: 25pt;
 }
-id="how" {
+
+<id="how"> {
   font-weight: bold;
   margin-left: 20px;
   font-size: 25pt;
 }
-id="what" {
+
+<id="what"> {
   font-weight: bold;
   margin-left: 20px;
   font-size: 25pt;
