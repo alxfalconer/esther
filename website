@@ -3,11 +3,9 @@
 </head>
 <body>
 <h1>Fanning Flames</h1>
-<style>
-p {
-        color: red;
+h1 {
+        color:red;
         }
-</style>
 <p id="first">
 Why
 <br>
